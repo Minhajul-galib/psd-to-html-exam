@@ -1,0 +1,319 @@
+*{ 
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+	/*header section start*/
+
+.header{
+			width: 100%;
+			background-color: white;
+			float: left;
+}
+.logo{
+		width: 20%;
+		float: left;
+}
+.img-center{
+	
+padding: 21px 10px;
+}
+.menu{
+		width: 80%;
+		float:left;
+}
+nav ul{
+
+list-style: none;
+
+padding: 12px 0px 14px 0px;
+
+margin: 16px 28px 4px 0px;
+}
+nav ul li{
+
+display: inline-block;
+
+padding: 10px 10px 10px 10px;
+
+margin: -6px -449px 14px 444px;
+}
+
+nav ul li a{
+			color: #A2A2A2;
+			font-size: 13px;
+			font-style: normal;
+			padding: 47px 0px;
+			margin: 7px 0px 24px -8px;
+			text-decoration-line: none;
+}
+		
+	
+
+.banner{
+			width: 100%;
+		background: url(../img/03.png) ; 
+			background-image: cover;
+			background-repeat: no-repeat;
+			background-position: center; 
+		
+			height: 570px;
+			float: left;
+}
+.banner-one{
+
+			width: 100%;
+			padding-top: 200px;
+			padding-bottom: 80px;
+			margin: 0px auto;
+			text-align: center;
+			float:left;
+}
+h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 100;
+    padding: 0px 10px 0px 0px;
+    margin: -46px 10px 47px 0px;
+}
+h3{
+	    color: white;
+	    font-size: 37px;
+	    font-weight: 100;
+	    margin: -29px 10px 47px 0px;
+}
+.banner-two{
+
+background-color: #99C50A;
+    border: 1px;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 22px;
+    padding: 22px 42px 22px 43px;
+    margin: 10px 10px 10px 10px;
+}
+/*work section*/
+.work{
+				width: 100%;	
+			height: 630px;
+			float: left;
+}
+.work-one{
+
+			width: 100%;
+			padding-top: 100px
+			padding-bottom: 80px;
+			margin: 0px auto;
+			text-align: center;
+			float:left;
+}
+.work-two{
+		    margin: 104px 0px 0px 0px;
+
+}
+h2{
+
+font-size: 31px;
+
+font-weight: 500;
+
+color: #515151;
+
+padding: 53px 10px 10px 10px;
+}
+h5{
+
+color: #9B9B9B;
+
+font-size: 19px;
+
+font-weight: 100;
+
+padding: 74px 0px 0px 0px;
+}
+h6{
+		color: #9B9B9B;
+
+font-size: 19px;
+
+font-weight: 100;
+
+padding: 55px 0px 0px 0px;
+}
+/*main section start*/
+
+
+.main{
+		width: 100%;
+		background-color: #E2F8FF;
+		height: 300px;
+		float: left;
+
+
+}
+.main-one{
+			width: 50%;
+		background-color: #E2F8FF;
+		height: 300px;
+		float: left;
+}
+.main-o{
+		width: 50%;
+		background-color: #E2F8FF;
+		height: 300px;
+		float: left;
+}
+.main-two{
+		padding:  79px 3px 4px 38px;
+}
+.main-n{
+		width: 50%;
+		background-color: #E2F8FF;
+		height: 300px;
+		float: left;
+}
+h4{
+
+margin: 52px 0px 1px -56px;
+}
+h6{
+
+margin: -25px 0px 0px -58px;
+}
+.main-three{
+
+font-size: 14px;
+
+border: 1px;
+
+background-color: #26A6D1;
+
+border-radius: 8px 8px 8px 8px;
+
+padding: 17px 35px 17px 35px;
+
+margin: 35px 0px 0px -56px;
+}
+.main-four{
+			width: 50%;
+		background-color: #F5F9EB;
+		height: 300px;
+		float: left;
+}
+.main-f{
+			width: 50%;
+		background-color: #F5F9EB;
+		height: 300px;
+		float: left;
+}
+.main-five{
+
+padding: 88px 3px 4px 41px;
+}
+.main-r{
+			width: 50%;
+		background-color: #F5F9EB;
+		height: 300px;
+		float: left;
+}
+.main-six{
+
+font-size: 14px;
+
+border: 1px;
+
+background-color: #ADD136;
+
+border-radius: 8px 8px 8px 8px;
+
+padding: 17px 35px 17px 35px;
+
+margin: 35px 0px 0px -56px;
+}
+
+/*feature section start*/
+
+.feature{
+			width: 100%;
+		background-color: #FFFFFF;
+		height: 200px;
+		float: right;
+}
+.feature-one{
+				width: 100%;
+		background-color: #FFFFFF;
+		height: 200px;
+			float: right;
+}	
+
+.feature-two{
+		    padding: 13px 20px 0px 74px;
+		    margin: 9px 10px -93px 4px;
+}
+p{
+
+margin: 114px 13px 13px 78px;
+
+color: #A9A9A9;
+}
+.feature-three{
+	
+font-size: 14px;
+	
+background-color: transparent;
+	
+border: 1px solid #B8B8B8;
+	
+border-radius: 6px 6px 6px 6px;
+	
+padding: 14px 30px 14px 30px;
+	
+margin: -16px 12px 10px 875px;
+}
+/*blog section*/
+
+.blog{
+				width: 100%;
+		background-color: #FFFFFF;
+		height: 750px;
+		float: right;
+}
+
+.blog-one{
+				width:33.33%;
+		
+		height: 750px;
+		float: right;
+}
+.blog-on{
+
+}
+
+.blog-two{
+					width:33.33%;
+		
+		height: 750px;
+		float: right;
+}
+.blog-tw{
+
+margin: -4px 0px 0px 42px;
+}
+.blog-three{
+				width: 33.33%;
+		
+		height: 750px;
+		float: right;
+}
+.blog-the{margin: 0px 0px 0px 79px;}
+.blog-far{
+	
+margin: -92px 0px 22px -45px;
+}
