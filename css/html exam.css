@@ -158,6 +158,17 @@ padding: 55px 0px 0px 0px;
 
 
 }
+
+
+.main-zero{
+			width: 50%;
+		background-color: #E2F8FF;
+		height: 300px;
+		float: left;
+		padding: 45px 0;
+}
+
+
 .main-one{
 			width: 50%;
 		background-color: #E2F8FF;
@@ -171,7 +182,7 @@ padding: 55px 0px 0px 0px;
 		float: left;
 }
 .main-two{
-		padding:  79px 3px 4px 38px;
+		padding: 40px 3px 4px 90px;
 }
 .main-n{
 		width: 50%;
@@ -181,11 +192,15 @@ padding: 55px 0px 0px 0px;
 }
 h4{
 
-margin: 52px 0px 1px -56px;
+margin: -14px 0px 1px 2px;
+
+font-size: 24px;
+
+font-weight: 500;
 }
 h6{
 
-margin: -25px 0px 0px -58px;
+margin: -33px 0px 0px 1px;
 }
 .main-three{
 
@@ -199,7 +214,17 @@ border-radius: 8px 8px 8px 8px;
 
 padding: 17px 35px 17px 35px;
 
-margin: 35px 0px 0px -56px;
+margin: 37px 0px 0px 3px;
+}
+
+
+.main-tree{
+			width: 50%;
+		background-color: #F5F9EB;
+		height: 300px;
+		float: left;
+		padding: 46px 0px;
+
 }
 .main-four{
 			width: 50%;
@@ -226,16 +251,11 @@ padding: 88px 3px 4px 41px;
 .main-six{
 
 font-size: 14px;
-
-border: 1px;
-
-background-color: #ADD136;
-
-border-radius: 8px 8px 8px 8px;
-
-padding: 17px 35px 17px 35px;
-
-margin: 35px 0px 0px -56px;
+    border: 1px;
+    background-color: #ADD136;
+    border-radius: 8px 8px 8px 8px;
+    padding: 17px 35px 17px 35px;
+    margin: 37px 0px 0px 3px;
 }
 
 /*feature section start*/
